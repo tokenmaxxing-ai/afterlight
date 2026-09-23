@@ -2,11 +2,11 @@
 
 **A tiny universe. Nine ways to wreck it.**
 
-[Play in your browser](https://shadiazzeh11.github.io/afterlight/) · [Report an issue](https://github.com/shadiazzeh11/afterlight/issues)
+[Play in your browser](https://tokenmaxxing-ai.github.io/afterlight/) · [Report an issue](https://github.com/tokenmaxxing-ai/afterlight/issues)
 
 Free to play. No install or account needed. Built with Three.js.
 
-[![Afterlight — a moon strike tears into Earth](docs/showcase.jpg)](https://shadiazzeh11.github.io/afterlight/)
+[![Afterlight — a moon strike tears into Earth](docs/showcase.jpg)](https://tokenmaxxing-ai.github.io/afterlight/)
 
 A Three.js planet-destruction sandbox. Choose Earth, Mars, the Moon, Jupiter, or Neptune; aim at the surface; and combine nine distinct weapons. Damage accumulates until the planet breaks apart. A fatal black hole pulls fragments inward instead.
 
