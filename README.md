@@ -6,6 +6,8 @@
 
 Free to play. No install or account needed. Built with Three.js.
 
+[![Afterlight — a moon strike tears into Earth](docs/showcase.jpg)](https://shadiazzeh11.github.io/afterlight/)
+
 A Three.js planet-destruction sandbox. Choose Earth, Mars, the Moon, Jupiter, or Neptune; aim at the surface; and combine nine distinct weapons. Damage accumulates until the planet breaks apart. A fatal black hole pulls fragments inward instead.
 
 ## Run locally
